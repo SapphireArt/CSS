@@ -15,6 +15,7 @@ header{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: #ffffff;
         font-weight: bold;
+        column-width: 250px;
     }
     body{
         background-color: #ffccff;
@@ -31,47 +32,47 @@ header{
         background-color: #ff0f87;
     }
     #rij1cel2{
-        background-color: #ff45a2;
+        background-color: #be45ff;
     }
     #rij1cel3{
         background-color: #ff53a9;
     }
     #rij1cel4{
-        background-color: #ff6cb6;
+        background-color: #6cfff3;
     }
     #rij2cel1{
         background-color: #ff7cbd;
     }
     #rij2cel2{
-        background-color: #ff8fc7;
+        background-color: #e78fff;
     }
     #rij2cel3{
         background-color: #ffa5d2;
     }
     #rij2cel4{
-        background-color: #fcc2df;
+        background-color: #c2fcf5;
     }
     #rij3cel1{
         background-color: #20aaff;
     }
     #rij3cel2{
-        background-color: #34b1ff;
+        background-color: #d034ff;
     }
     #rij3cel3{
         background-color: #47b8ff;
     }
     #rij3cel4{
-        background-color: #60c2ff;
+        background-color: #60ffea;
     }
     #rij4cel1{
         background-color: #7accff;
     }
     #rij4cel2{
-        background-color: #93d5ff;
+        background-color: #e093ff;
     }
     #rij4cel3{
         background-color: #b3e2ff;
     }
     #rij4cel4{
-        background-color: #c9eaff;
+        background-color: #c9fff7;
     }
