@@ -1,0 +1,77 @@
+header{
+    background-color: #ffffff;
+    width: 100%;
+    height: 200px;
+    }
+    footer{
+    background-color: #ff99ff;
+    width: 100%;
+    height: 200px;
+    }
+    table {
+        border-style: dotted;
+        border: dotted;
+        border-color: #ff9999;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #ffffff;
+        font-weight: bold;
+    }
+    body{
+        background-color: #ffccff;
+        width: 100%;
+    height: 200px;
+    }
+    a:visited{
+        color:#ff0090
+    }
+    a:hover {
+        color: #8b1a5e;
+    }
+    #rij1cel1{
+        background-color: #ff0f87;
+    }
+    #rij1cel2{
+        background-color: #ff45a2;
+    }
+    #rij1cel3{
+        background-color: #ff53a9;
+    }
+    #rij1cel4{
+        background-color: #ff6cb6;
+    }
+    #rij2cel1{
+        background-color: #ff7cbd;
+    }
+    #rij2cel2{
+        background-color: #ff8fc7;
+    }
+    #rij2cel3{
+        background-color: #ffa5d2;
+    }
+    #rij2cel4{
+        background-color: #009dff;
+    }
+    #rij3cel1{
+        background-color: #20aaff;
+    }
+    #rij3cel2{
+        background-color: #34b1ff;
+    }
+    #rij3cel3{
+        background-color: #47b8ff;
+    }
+    #rij3cel4{
+        background-color: #60c2ff;
+    }
+    #rij4cel1{
+        background-color: #7accff;
+    }
+    #rij4cel2{
+        background-color: #93d5ff;
+    }
+    #rij4cel3{
+        background-color: #b3e2ff;
+    }
+    #rij4cel4{
+        background-color: #c9eaff;
+    }
